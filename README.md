@@ -1,38 +1,86 @@
-<h1 align="center">Hi, I'm Ranjan Bej 👋</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/Ranjan-bej"><img src="https://img.shields.io/github/followers/Ranjan-bej?style=social" alt="GitHub Followers"></a>
-  <a href="https://leetcode.com/u/Ranjan_Bej/"><img src="https://img.shields.io/badge/LeetCode-Ranjan__Bej-orange?logo=leetcode" alt="LeetCode"></a>
-  <a href="https://www.linkedin.com/in/ranjan-bej"><img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Bej-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
----
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F71C7F&width=435&lines=Software+Developer;Problem+Solver;Backend+%2B+Frontend+%2B+DevOps;Java+%2F+C%2B%2B" alt="Typing SVG" />
-</p>
+<h1 align="center">hey there 👋</h1>
 
----
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">🔭 I’m currently working as an Intern at Kurators, contributing to production ready web application.<br><br>📚 I’m currently learning Generative AI, with an emphasis on integrating intelligence into scalable systems.<br><br>🧠 Ask me about backend scalability, API design, database optimization, and system architecture. <br><br>📫 How to reach me: ranjan.288.bej@gmail.com</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
 
 
 
-**Most Used Languages on GitHub:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-bej&layout=compact&theme=radical)
+<h3 align="left">📊 GitHub Activity</h3>
 
----
 
-<!-- LeetCode interactive badge (questions solved only) -->
-<p align="center">
-  <a href="https://leetcode.com/u/Ranjan_Bej/">
-    <img src="https://leetcard.jacoblin.cool/Ranjan_Bej?questions_solved=true" alt="LeetCode Stats" />
-  </a>
-</p>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjan-Bej&theme=github-compact&hide_border=true" />
+</div>
 
-**Contact:**  
-[LinkedIn](https://www.linkedin.com/in/ranjan-bej) | [GitHub](https://github.com/Ranjan-bej)
+
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ranjan-Bej/Ranjan-Bej/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ranjan-Bej/Ranjan-Bej/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ranjan-Bej/Ranjan-Bej/output/pacman-contribution-graph.svg">
+</picture>
+
+###
