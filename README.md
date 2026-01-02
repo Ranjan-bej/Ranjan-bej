@@ -12,7 +12,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B;I'm+Ranjan;Software+Developer;Full+Stack+Developer;AI%2FML+Enthusiast">
+</p>
+
+
 
 ###
 
