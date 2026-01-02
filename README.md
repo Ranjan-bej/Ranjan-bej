@@ -62,6 +62,9 @@
 
 ###
 
+[![Holopin badges](https://holopin.me/ranjanbej)](https://holopin.io/@ranjanbej)
+###
+
 
 
 <h3 align="left">📊 GitHub Activity</h3>
